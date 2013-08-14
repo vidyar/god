@@ -28,4 +28,4 @@ Sign up for the god mailing list at http://groups.google.com/group/god-rb
 License
 -------
 
-See LICENSE file.
+See LICENSE file.!!
