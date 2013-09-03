@@ -1,4 +1,4 @@
-God: The Ruby Framework for Process Management!!!
+God: The Ruby Framework for Process Management!!!!!!!
 ==============================================
 
 * Authors: Tom Preston-Werner, Kevin Clark, Eric Lindvall
